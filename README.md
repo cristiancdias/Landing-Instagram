@@ -7,3 +7,7 @@ Realizado durante bootcamp HTML Web Developer. (Introdução ao Flex-box.)
 
 HTML
 CSS3
+
+# Especialista 
+
+Gabriela Pinheiro
